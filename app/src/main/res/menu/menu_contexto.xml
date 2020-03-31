@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_mayus"
+        android:title="@string/action_mayus"
+        />
+    <item
+        android:id="@+id/action_minus"
+        android:title="@string/action_minus"
+        />
+</menu>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ParcialYasserArrieta</string>
+
+    <string-array name="spinner_items">
+
+        <item>Familia</item>
+        <item>Trabajo</item>
+        <item>Amigo</item>
+        <item>Ocasional</item>
+
+    </string-array>
+
+    <string name="txt_registro1">Nombre Contacto</string>
+    <string name="txt_registro2">Telefono</string>
+    <string name="txt_registro3">Grupo</string>
+    <string name="btnListar">Listar Contactos</string>
+    <string name="btnLimpiar">Limpiar Datos</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="edi_telefono">Type somthing here</string>
+    <string name="edi_nombre">Type somthing here</string>
+
+    <string name="btnordenarnombre">Ordenar nombre</string>
+    <string name="btnordenargrupo">Ordenar por grupo</string>
+    <string name="btneliminar">Eliminar todos</string>
+    <string name="btninvertir">Invertir lista</string>
+
+    <string name="action_mayus">Convertir a mayuscula</string>
+    <string name="action_minus">Convertir a minuscula</string>
+
+    <string name="action_telefono">Generar numero telefonico</string>
+
+
+
+
+</resources>
